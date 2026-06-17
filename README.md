@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
-<h3 align="center">Data Science Enthusiast and DataCamp certified Data Analyst</h3>
+<h3 align="center">Data Engineer/Analyst and DataCamp certified Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awasthipratyush&label=Profile%20views&color=0e75b6&style=flat" alt="awasthipratyush" /> </p>
 
-- 🌱 I’m currently learning **Power BI and ETL concepts**
+- 🌱 Skills - Python , SQL (Snowflake, Postgres), ETL/ELT, AWS, Azure ,PowerBI**
 
 - 📫 How to reach me **awasthi.pratyush@gmail,com**
 
